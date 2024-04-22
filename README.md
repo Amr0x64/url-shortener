@@ -14,7 +14,7 @@ go test
 ```
 
 ## Добавление url от пользоватея
-![Добавление url от пользоватея](./url-shortener/img/save.png)
+![Добавление url от пользоватея](./img/save.png)
 
 ## Перенаправление на сохраненный url 
-![Полчение url](./url-shortener/img/get-url.png)
+![Полчение url](./img/get-url.png)
